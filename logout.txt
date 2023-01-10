@@ -1,2 +1,3 @@
 Huy phép cộng
 Hoàng phép nhân
+Hoàng phép màu
