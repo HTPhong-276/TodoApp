@@ -1,3 +1,6 @@
 Huy phép cộng
 Hoàng phép nhân
 Hoàng phép màu
+Phu phép chia
+Khánh phép chia
+Phu phep thuat
