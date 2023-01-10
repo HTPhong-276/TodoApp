@@ -3,9 +3,6 @@ Hoàng phép nhân
 Hoàng phép màu
 Phu phép chia
 Khánh phép chia
-<<<<<<< HEAD
 
 Khánh phép thuật
-=======
 Phu phep thuat
->>>>>>> c007a7235ed82edc88673e39c8b40d344ce11e85
