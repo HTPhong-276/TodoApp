@@ -1,2 +1,6 @@
 Huy phép cộng
+Phu phép chia
+Hoàng phép nhân
+Khánh phép chia
+Phu phep thuat
 PHONG PHÉP TRỪ -----
