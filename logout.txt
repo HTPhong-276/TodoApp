@@ -1,4 +1,5 @@
 Huy phép cộng
 Phu phép chia
+Huy phép màu
 Hoàng phép nhân
 Khánh phép chia
