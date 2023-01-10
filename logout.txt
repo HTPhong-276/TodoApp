@@ -1,2 +1,3 @@
 Huy phép cộng
 Phu phép chia
+Phu phep thuat
